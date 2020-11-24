@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Buka
-Comment=EBook Management and Reader
-Exec=AppRun
-Terminal=false
-Type=Application
-Icon=buka
-X-AppImage-Version=1.0.0
-X-AppImage-BuildId=e7034c80-417d-11a7-1835-ad626d4ebb64
